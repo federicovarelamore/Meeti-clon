@@ -9,5 +9,8 @@ $primary: $rojo;
 $secondary: $verde;
 $dark: $oscuro;
 
+/** Tipografía **/
+$display-font-weight: 900;
+
 //Importar Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
