@@ -1,0 +1,14 @@
+@use "../custom" as *;
+
+.tarjeta {
+  cursor: pointer;
+}
+
+.card {
+  transition: all ease-in 300ms;
+}
+
+.card:hover {
+  transform: scale(1.09);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
