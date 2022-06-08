@@ -1,0 +1,23 @@
+{
+  "name": "meeti-clon",
+  "version": "1.0.0",
+  "description": "Aprendiendo Bootstrap 5 & SASS",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicovarelamore/Meeti-clon.git"
+  },
+  "author": "Federico Varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/federicovarelamore/Meeti-clon/issues"
+  },
+  "homepage": "https://github.com/federicovarelamore/Meeti-clon#readme",
+  "devDependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.52.2"
+  }
+}
